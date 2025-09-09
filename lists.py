@@ -37,4 +37,27 @@
 # lst = [i*i for i in range(10) if i%2==0]
 # print(lst)
 
-l =[1,2 append ]
+m = [1,2,4,6,3]
+print(m)
+l = [800,10,123]
+# m.extend(l)
+# print(m)
+k= l+ m
+print(k)
+# m.insert(1,899)
+# print(m)
+# print(m.count(2))
+# m.append(7)
+# print(m)
+# m.sort()
+# print(m)
+# m.sort(reverse= True)
+# print(m)
+# m.reverse()
+# print(m)
+# print(m.index(1))
+# print(m)
+# l =[1,2 append ]
+# l = m.copy()
+# l[0] =0
+# print(l)
